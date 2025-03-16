@@ -1,6 +1,12 @@
 # Mechatronics-Car
 
- Use this ir module
+make your custom character on lcd in this link below 
+
+https://maxpromer.github.io/LCD-Character-Creator/
+
+
+
+ Use this ir module and adjust sensitivity on your car
 
 ![line6](https://github.com/user-attachments/assets/1357b7ca-72d4-4d0e-808a-1400cc25b5a4)
 
